@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Alden Medina
+I'm an emerging Data Analyst with a strong background in education, multilingual communication, and data-driven decision making. I completed the CareerFoundry Data Analytics Program, developing skills in:
 
-<!--
-**AldenMedina/AldenMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SQL (Joins, CTEs, subqueries)
 
-Here are some ideas to get you started:
+Python (Pandas, Matplotlib, basic machine learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tableau (Dashboard design, storytelling)
+
+Excel (Data cleaning, pivot tables, forecasting)
+
+R (Introductory exposure) (Statistical analysis from undergraduate research)
+
+🔍 Interests: Educational equity, data ethics, music analytics, economic trends
+📈 Portfolio Highlights:
+
+Food Inflation Analysis Dashboard
+
+Food Inflation Analysis GitHub Repo
+
+🎵 Fun Fact: I'm a longtime music producer, DJ, and researcher of global musical movements.
+
+Let's connect!
+
+
